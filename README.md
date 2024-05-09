@@ -2,7 +2,7 @@
 
 ![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
 Visit website 
-![website](https://ahadansari456.github.io/Recipe/)
+<a href="https://ahadansari456.github.io/Recipe/" > Click here</a>
 
 ## Welcome! 👋
 
